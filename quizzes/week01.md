@@ -38,12 +38,14 @@ Cascading Style Sheets
 ```
 <!-- enter you answer in the space below -->
 ```
+Selector, property, and value
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
+font weight
 
 ```
 
@@ -62,6 +64,7 @@ Majority of your code belongs in the <body></body> tags
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
+Flex puts your code into "boxes" which you are then able to move around and style individually.
 
 ```
 

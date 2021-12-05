@@ -71,5 +71,5 @@ Flex puts your code into "boxes" which you are then able to move around and styl
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-Width, min-width, max-width, height, min-height, max-height
+Width, min-width, max-width, height, min-height, max-height. 
 ```

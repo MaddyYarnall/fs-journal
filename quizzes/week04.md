@@ -43,12 +43,12 @@ your axios service file
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+To keep all like things (files, functions, pieces of code) together instead of having them separated and scattered all over the place
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+200
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->

@@ -13,7 +13,7 @@ An event listener is a procedure in JavaScript that waits for an event to occur.
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Open-closed principle
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
@@ -28,7 +28,7 @@ A promise is an object that may produce a single value some time in the future; 
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
+connect, trace, patch
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
